@@ -116,6 +116,12 @@ application.
 This plugin was created by [James Gibson][1]. It is now maintained by [Chris Peters][2] with
 support from [Liquifusion Studios][3].
 
+## License
+
+The MIT License (MIT)
+
+Copyright (c) 2016 Liquifusion Studios
+
 
 [1]: http://iamjamesgibson.com/
 [2]: http://www.chrisdpeters.com/
