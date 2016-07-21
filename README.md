@@ -111,6 +111,16 @@ component extends="Controller" {
 To uninstall this plugin, simply delete the `/plugins/ExceptionRender-0.X.zip` file and reload your
 application.
 
+## Building the plugin release
+
+Follow these steps:
+
+1.  Update `build.sh` to have the correct version number for the release.
+2.  Run `sh build.sh`
+
+The zip file should appear containing a releaseable CFWheels plugin named
+`ExceptionRender-[VERSION].zip`.
+
 ## Credits
 
 This plugin was created by [James Gibson][1]. It is now maintained by [Chris Peters][2] with
