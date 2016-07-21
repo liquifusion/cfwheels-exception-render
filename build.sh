@@ -1,0 +1,4 @@
+#!/bin/bash
+EXCEPTION_RENDER_VERSION="0.2"
+EXCEPTION_RENDER_ZIP="ExceptionRender-$EXCEPTION_RENDER_VERSION.zip"
+zip $EXCEPTION_RENDER_ZIP ExceptionRender.cfc LICENSE README.md index.cfm
